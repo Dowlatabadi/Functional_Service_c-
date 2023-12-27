@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "AccountsUpdate.Service": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Staging"
+      },
+      "applicationUrl": "https://localhost:50692;http://localhost:50693"
+    }
+  }
+}
